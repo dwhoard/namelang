@@ -33,7 +33,10 @@ Note that this RNN can be repurposed as a general use classifier by training it 
 1. **Figure_1_500K.png** - visualization of the RNN losses for the 500,000 iteration training. Decreasing losses at increasing iterations indicates that the RNN is successfully learning.
 ![RNN losses](./Figure_1_500K.png)
 
+<img src="./Figure_1_500K.png" width="400px" />
+
 1. **Figure_2_500K.png** - visualization of the confusion matrix for the 500,000 iteration training. 1:1 correspondence between languages on the x- and y-axes indicates successful training of the RNN, while the presence of lighter-colored squares utisde the 1:1 line indicates possibly probelmatic predictions (for example, there is a reasonably high probability that the RNN could have trouble correctly identifying Spanish and Portuguese, or Korean and Chinese).
+
 ![Confusion matrix](./Figure_2_500K.png)
 
 ## Example:
