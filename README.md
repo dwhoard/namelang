@@ -16,7 +16,7 @@ The training data set is available at https://download.pytorch.org/tutorial/data
 At a minimum, you need:
 
 1. **namelang.py** - this is the script to actually read a name amkae a prediction (see Example below)
-1. **namelang_data.py**, *namelang_model.py* - namelang.py uses functions defined in these scripts
+1. **namelang_data.py**, **namelang_model.py** - namelang.py uses functions defined in these scripts
 1. **namelang_rnn_trained_500K.pth** - this is a saved state of the RNN that was trained over 500,000 iterations.
 
 In order to retrain the RNN, you also need:
