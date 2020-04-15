@@ -1,0 +1,7 @@
+# Anaconda Individual Edition with Python 3.7
+
+# Anaconda3-2020.02-MacOSX-x86_64.pkg
+
+# Additional installs
+conda install pytorch --channel pytorch
+

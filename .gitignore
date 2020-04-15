@@ -1,5 +1,3 @@
-venv
-.*.swp
 __pycache__
 ptest.py
-README.txt
+README-commands.txt
